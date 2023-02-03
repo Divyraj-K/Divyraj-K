@@ -26,5 +26,3 @@ www.linkedin.com/in/divyraj-parmar-13a08a1b8
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-
-### :fire: My Stats :
