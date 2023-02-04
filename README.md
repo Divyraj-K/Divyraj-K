@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 <div>
-  <a href="url">link text</a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>  
 </div>
 www.linkedin.com/in/divyraj-parmar-13a08a1b8
 
