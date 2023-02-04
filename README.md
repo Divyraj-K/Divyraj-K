@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 <div>
+  [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/divyraj-parmar-13a08a1b8)
   <a href="www.linkedin.com/in/divyraj-parmar-13a08a1b8"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
 www.linkedin.com/in/divyraj-parmar-13a08a1b8
