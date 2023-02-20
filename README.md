@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg[www.linkedin.com/in/divyraj-parmar-13a08a1b8]" title="linkedin" alt="linkedin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"[www.linkedin.com/in/divyraj-parmar-13a08a1b8] title="linkedin" alt="linkedin" width="40" height="40"/>
 </div>
 www.linkedin.com/in/divyraj-parmar-13a08a1b8
 
