@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Divyraj
 <h1 align="center">Hi 👋, I'm Divyraj Parmar</h1>
 <h3 align="center">Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...]https://miro.medium.com/v2/resize:fit:786/0*cPrF_XMe7U6atYgM.gif">
+<img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyraj-k&label=Profile%20views&color=0e75b6&style=flat" alt="divyraj-k" /> </p>
 
 <h3 align="left">Connect with me:</h3>
